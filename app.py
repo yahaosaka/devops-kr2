@@ -1,3 +1,4 @@
+# KR2: Bembeev
 import os
 import socket
 
